@@ -31,7 +31,7 @@ if (true === true) {
   console.log(sum);
 }
 
-console.log(message);
+// console.log(message);
 
 // var is function-scoped, so redeclaring it in a block will cause its value outside the block to change as well:
 
